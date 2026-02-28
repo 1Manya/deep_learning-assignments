@@ -34,7 +34,7 @@
 
 ## Certificate
 
-![Certificate](certificate.png)
+![Certificate](certificate.jpeg)
 
 ---
 
