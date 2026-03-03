@@ -41,3 +41,6 @@ Parameters in a layer = (neurons_out × neurons_in) + neurons_out
  - **TOTAL = 545**
 
 ---
+##  Observation Table
+
+[Click here to view Observation Table](observation_table.csv)
