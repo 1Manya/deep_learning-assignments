@@ -34,10 +34,11 @@ Parameters in a layer = (neurons_out × neurons_in) + neurons_out
 ---
 
 ## Model D:  3 --> 8 --> 8 --> 8 --> 8 --> 8 --> 8 --> 8 --> 8 --> 1
-   -Layer 1: 8*3 + 8 = 32
-   -Layers 2-8 (7 layers): 7 * (8*8+8) = 7 * 72 = 504
-   -Output:  1*8 + 1 = 9
-   -**TOTAL = 545**
+
+ - Layer 1: 8*3 + 8 = 32
+ - Layers 2-8 (7 layers): 7 * (8*8+8) = 7 * 72 = 504
+ - Output:  1*8 + 1 = 9
+ - **TOTAL = 545**
 
 ---
 
